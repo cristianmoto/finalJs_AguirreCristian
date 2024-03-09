@@ -1,0 +1,35 @@
+[
+    {
+     "id":1, 
+     "nombre":"Combo Café Molido Brasil y Tipo Italiano 250gr",
+     "imagen":"https://cafemartinez.vtexassets.com/arquivos/ids/157815-800-auto?v=638277292938700000&width=800&height=auto&aspect=true",
+     "precio":13251
+ },
+ {
+     "id":2, 
+     "nombre":"Combo Café Molido Suave 260g x2 packs",
+     "imagen":"https://cafemartinez.vtexassets.com/arquivos/ids/157698-800-auto?v=638211466391500000&width=800&height=auto&aspect=true",
+     "precio":11089
+ },
+ {
+     "id":3, 
+     "nombre":"Combo Café Molido Selecto 250 gs x 2 packs",
+     "imagen":"https://cafemartinez.vtexassets.com/arquivos/ids/159008-800-auto?v=638340291225030000&width=800&height=auto&aspect=true",
+     "precio":15980
+ },{
+     "id":4, 
+     "nombre":"Cápsulas LUNGO compatibles con máquinas",
+     "imagen":"https://cafemartinez.vtexassets.com/arquivos/ids/157003-800-auto?v=637855373255100000&width=800&height=auto&aspect=true",
+     "precio":8180
+ },{
+     "id":5, 
+     "nombre":"Combo 80 Cápsulas Cafe Martinez",
+     "imagen":"https://cafemartinez.vtexassets.com/arquivos/ids/159013-800-auto?v=638342907382700000&width=800&height=auto&aspect=true",
+     "precio":70740
+ },{
+     "id":6, 
+     "nombre":"Combo 60 Cápsulas 1933",
+     "imagen":"https://cafemartinez.vtexassets.com/arquivos/ids/159121-1600-auto?v=638350672779000000&width=1600&height=auto&aspect=true",
+     "precio":37176
+ }
+ ]
